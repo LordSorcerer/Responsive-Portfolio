@@ -195,7 +195,11 @@
         /*Responsive-Portfolio CSS Section for media queries, etc.*/
         
         @media screen and (max-width: 980px) {
-            /*Header Changes*/
+            /*Main Container changes*/
+            .main_content {
+                width: 960px;
+            }
+            /*Header changes*/
             #logo {
                 margin-left: 8%;
             }
@@ -203,10 +207,7 @@
                 float: left;
                 margin-left: 150px;
             }
-            /*Main Container, Main and Sidebar changes*/
-            .main_content {
-                width: 960px;
-            }
+            /*Main and Sidebar changes*/
             main {
                 width: 50%;
                 margin-left: 6.5%;
@@ -220,7 +221,6 @@
                 width: 90%;
                 height: auto;
             }
-          
             .gallery_image_container {
                 width: 80%;
                 height: 140%;
@@ -228,7 +228,6 @@
             .gallery_label {
                 line-height: 300%;
             }
-
         }
         /* 
 @media screen and (max-width: 768px) {
