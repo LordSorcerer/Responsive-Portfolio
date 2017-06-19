@@ -249,15 +249,15 @@
         }
         /*Main and Sidebar changes*/
         main {
-            width: 72%;
-            margin-left: 2%;
+            width: 68%;
+            margin-left: 1%;
             margin-top:2%;
             clear: both;
         }
         .sidebar {
             clear: left;
-            margin-left: 2%;
-            width: 72%;
+            margin-left: 1%;
+            width: 68%;
             height: 30%;
             margin-bottom: 4%;
         }
@@ -266,7 +266,6 @@
             width: 50%;
             height: auto;
             float: left;
-            margin-left: 2%;
         }
         .gallery_image_container {
             width: 44%; 
@@ -305,14 +304,14 @@
         }
         /*Main and Sidebar changes*/
         main {
-            width: 58%;
+            width: 59%;
             margin-left: 2%;
             clear: both;
         }
         .sidebar {
             clear: left;
             margin-left: 2%;
-            width: 58%;
+            width: 59%;
             height: 30%;
             margin-bottom: 4%;
         }
