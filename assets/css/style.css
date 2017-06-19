@@ -305,14 +305,14 @@
         }
         /*Main and Sidebar changes*/
         main {
-            width: 59%;
-            margin-left: 3%;
+            width: 58%;
+            margin-left: 2%;
             clear: both;
         }
         .sidebar {
             clear: left;
-            margin-left: 3%;
-            width: 59%;
+            margin-left: 2%;
+            width: 58%;
             height: 30%;
             margin-bottom: 4%;
         }
@@ -323,7 +323,7 @@
         #about_img {
             width: 85%;
             height: auto;
-            float: left;
+            float: none;
             margin-left: 7.5%;
         }
         .gallery_image_container {
