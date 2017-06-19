@@ -249,15 +249,15 @@
         }
         /*Main and Sidebar changes*/
         main {
-            width: 48%;
-            margin-left: 5%;
+            width: 85%;
+            margin-left: 7%;
             margin-top:2%;
             clear: both;
         }
         .sidebar {
             clear: left;
             margin-left: 5%;
-            width: 48%;
+            width: 85%;
             height: 30%;
             margin-bottom: 4%;
         }
